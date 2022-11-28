@@ -1,0 +1,13 @@
+﻿{
+	"id": "BeatSaber_Oblong",
+	"name": "BeatSaber_Oblong",
+	"author": "Kinsi55",
+	"version": "0.0.1",
+	"description": "",
+	"gameVersion": "1.18.0",
+	"dependsOn": {
+		"BSIPA": "^4.0.5",
+		"websocket-sharp": "^1.0.4",
+		"BeatSaberMarkupLanguage": "^1.4.5"
+	}
+}
